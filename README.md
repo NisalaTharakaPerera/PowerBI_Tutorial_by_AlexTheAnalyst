@@ -1,4 +1,4 @@
-# Apocolypse Food Prep Tutorial by Alex the Analyst
+# Full Power BI Tutorial by Alex the Analyst
 
 The following is the link of the youtube playlist:
 https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
